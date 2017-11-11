@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tabelline</string>
+    <string name="button_name">Conferma</string>
+    <string name="edit_message">Scrivi un messaggio</string>
+</resources>
